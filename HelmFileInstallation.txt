@@ -1,0 +1,8 @@
+Skunuti na githuba ili nekog drugog source
+
+mv helmfile_linux_amd64 helmfile
+
+chmod 777 helmfile
+
+sudo mv helmfile /usr/local/bin  -> Da moze execute anywhere from terminal
+ 
